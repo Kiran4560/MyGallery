@@ -1,1 +1,2 @@
 # MyGallery
+# craete the app
